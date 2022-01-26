@@ -19,7 +19,7 @@ npm install tax-validator
 ## Usage
 
 ```sh
-import {validate} from "tax-validator"
+import {validate} from "tax-validator";
 let validatedTaxValue=validate("69%");
 console.log(validatedTaxValue);
 ```
