@@ -1,0 +1,19 @@
+{
+  "name": "tax-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "tax-validator",
+    "tax percentage validation",
+    "tax validation",
+    "validate tax"
+  ],
+  "author": "PranavVS",
+  "license": "ISC"
+}
